@@ -25,16 +25,15 @@ Follow [this link to join the Slack workspace for this class](https://join.slack
 
 ## Part 4: Install Anaconda
 There are many different ways to write and run Python code. We will be exploring several of them in this class, but we will start by using Anaconda.
-Anaconda is a platform for writing and running Python programs that includes a lot of optional libraries (extra functionality) that are not normally included with the basic version of Python. Using Anaconda will allow us to skip over the frustration of installing libraries and making sure everything is installed in the right place. As you become a stronger programmer, you will likely manage your Python installation yourself. 
+Anaconda is a platform for writing and running Python programs that includes a lot of optional libraries (extra functionality) that are not normally included with the basic version of Python. Using Anaconda will allow us to skip over the frustration of installing libraries and making sure everything is installed in the right place. As you become a stronger programmer, you will learn to manage your Python installation yourself, but for now, we'll use Anaconda.
 
 Follow the instructions for installing Anaconda for your particular operating system:
 * [Windows](https://docs.anaconda.com/free/anaconda/install/windows/#installing-on-windows)
-* [Mac](https://docs.anaconda.com/free/anaconda/install/mac-os/#wizard-install)
-* [Linux](https://docs.anaconda.com/free/anaconda/install/linux/#installing-on-linux))
+* [Mac](https://docs.anaconda.com/free/anaconda/install/mac-os/#wizard-install) *Note: If it asks you to choose between Intel or M1/M2/M3, you probably have an M-chip, but you can check for sure by going to the Apple icon in the upper left of your screen and selecting "About this Mac"*.
 
-Please take the suggestions and recommendation.
+Please take the suggestions and recommendations found in the installation guide.
 
-### Part 5: Type some Python code!
+## Part 5: Type some Python code!
 
 1. Launch the **IDLE** application (*not* python.exe or Python launcher.app).
 
@@ -50,16 +49,22 @@ Please take the suggestions and recommendation.
 
 5. Take a screenshot of your IDLE window showing that you typed these commands, and submit it to the Canvas assignment for Problem Set 1.
 
+## Part 6: Edit a Jupyter Notebook
+
+
+## Part 7: Commit your work to GitHub Classroom
 ---
 
 **Reminder:** To receive full credit you must
 
-* Submit the slide from Part 1 to Canvas.
-* Complete the course survey from Part 2.
-* Post a message on Slack for Part 3.
-* Submit the screenshot from Part 5 to Canvas.
+* Put your PDF slide in this directory (Part 1)
+* Complete the course survey (Part 2).
+* Post a message on Slack (Part 3).
+* Put the screenshot showing that you installed and can use Anaconda in this directory (Part 5).
+* Edit the `ps1.ipynb` file in this directory (Part 6).
+* Commit this entire directory to GitHub Classroom (Part 7).
 
-**All components of this problem set are due by Friday, September 2, by 11:59pm Boston time.**
+**All components of this problem set are due by Friday, January 19, by 11:59pm Boston time.**
 
 ---
 
