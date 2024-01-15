@@ -38,7 +38,7 @@ In this class, most assignments will be distributed and submitted using GitHub C
 
 1. Download Python for your operating system by clicking the big yellow "Download Python" button found on this webpage: https://www.python.org/downloads/. It's okay if the version number is different. Python gets updated frequently!
 
-<img src="img/download.png" width="300">
+<img src="download.png" width="300">
 
 2. Double click on the downloaded file to install Python on your computer. Answer the questions that the installer asks you and keep clicking the "Continue" button. You might have to enter your computer's password to complete the installation.
 
