@@ -59,7 +59,7 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 ## Part 6: Write and run Python code from the IDLE interpreter
 
-1. Launch the **IDLE** application (*not* python.exe or Python launcher.app). 
+1. Launch the **IDLE** application (*not* python.exe or Python launcher.app). On a Mac it might be called ``IDLE.app``, and on a Windows machine it might be called ``IDLE.exe`` or ``IDLE.bat``. See Part 5, stem 3 to recall how to find it.
 
 2. This will open a window that looks something like this.
 
@@ -73,9 +73,38 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 5. Take a screenshot of your IDLE window showing that you typed these commands, and move the screen shot into the folder on your computer for this repository (i.e., the one GitHub Desktop created called `ps1-yourusername`).
 
-## Part 7: Write and run a Python program
+## Part 7: Write and run a Python program with IDLE
+
+In this folder, you'll see a file called `ps1.py`.  (Your operating system might just show it as as `ps1`. That's fine -- it's the file you want.) 
+
+In order to view and run this program in IDLE, you need to open it in IDLE. There are two ways of opening a Python (``.py``) file in IDLE.
+
+**Option 1**
+
+* Right-click on the `ps1.py` file. (On a Mac, you can right-click by tapping the icon with two fingers or by holding down the ``control`` key and then tapping the icon.)
+* Select `Open with...` and then select IDLE from the submenu.
+* If IDLE does not appear or you can't figure out how to right click, try option 2.
+
+**Option 2**
+
+* Launch IDLE. It might already be open from Part 6! 
+* From the `File` menu in IDLE, select `Open`. Then navigate to the `ps1-yourusername` folder, and select `ps1.py`, which your OS might show just as `ps1`, without the `.py`.
 
 
+Once you have launched IDLE and you have `ps1.py` open, click on the `ps1.py` window to make it the active window. Then go up to the `Run` dropdown menu, and select `Run Module`. In the `IDLE Shell` window, you'll see output something like this.
+
+```
+=========== RESTART: /Users/emilypx/Desktop/ps1.py ===========
+Hello, World!
+>>> 
+```
+
+You have successfully run your first Python program!You can now edit the program in the window where you opened it in IDLE.
+
+1. Change the code in `ps1.py` to print out (1) "Hello, Boston College!", (2) the sum of 7 and 15, (3) any farewell message.
+2. Save the program by selecting `Save` from the `File` menu or by using whatever shortcut you'd use to save a file in Word or Excel or any other app.
+3. Run the program by selecting the `ps1.py` window and then going to `Run -> Run module`.
+   
 
 ## Part 8: Make a Personal Slide
 
