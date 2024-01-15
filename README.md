@@ -29,10 +29,24 @@ In this class, most assignments will be distributed and submitted using GitHub C
 1. [Download GitHub Desktop from here.](https://desktop.github.com)
 2. Find the installer in your Downloads folder (or wherever things get downloaded on your computer), then double click the installer to install GitHub Desktop. In most cases, this will install the program in your Downloads folder.
 3. Launch GitHub Desktop. When you do this, it might ask you if you want to move it to a more appropriate location (e.g., Applications). You should agree to this, but remember where it is getting moved to so you can find it easily later! I suggest making a shortcut or alias on your Desktop.
-4. Since you have already created a GitHub account in the first part of this problem set, you should sign in to GitHub.com when prompted.
+4. Since you have already created a GitHub account in the first part of this problem set, you should sign in to GitHub.com when prompted, and authorize GitHub Desktop to access your GitHub Files.
 
 ## Part 5: Clone this repository to your own machine
+This might be the trickiest part for many people. You are now going to use GitHub Desktop to make a copy of this repository on your own computer. It will just look like a normal folder on your computer, but it will actually be connected to your copy of this repository on the internet on GitHub. You can add files and change files in that folder, and then you will use GitHub Desktop to make those changes to your repository on GitHub. The repository on GitHub is what the TAs and I will grade, rather than a submission on Canvas.
 
+1. Launch GitHub Desktop if you closed it before. If you have not already logged in and authorized it to access your GitHub account, follow the instructions it provides to do so now.
+
+2. You should see a screen like this. Click on the second choice "Clone a Repository from the Internet..."
+
+<img src="getstarted.png" width="500">
+
+3. When you select that, you'll see a list of your repositories, including this one, as shown below. Select this repository, i.e., `CSCI1090-S24/ps1-yourusername`. Then in the `Local Path` box, change the path to something sensible -- like your Desktop and a folder named for the class, as shown in the screenshot below.
+
+<img src="selectrepo.png" width="500">
+
+4. Next you'll see a screen like this. If you want to see your local copy of your repo on your computer, you can click on the `Show in Finder` option (which will be something like `Show in File Explorer` in Windows).
+
+5. On my Mac, this is what I see next. This is where you will be doing all the work for this problem set. At the end of the problem set, in step 9, you'll see how to commit your work to your repository on the internet on GitHub.
 
 ## Part 6: Download and install Python
 
