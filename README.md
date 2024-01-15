@@ -45,12 +45,16 @@ This might be the trickiest part for many people. You are now going to use GitHu
 <img src="selectrepo.png" width="500">
 
 4. Next you'll see a screen like this. If you want to see your local copy of your repo on your computer, you can click on the `Show in Finder` option (which will be something like `Show in File Explorer` in Windows).
+ 
+<img src="repoview.png" width="500">
 
-5. On my Mac, this is what I see next. This is where you will be doing all the work for this problem set. At the end of the problem set, in step 9, you'll see how to commit your work to your repository on the internet on GitHub.
+6. On my Mac, this is what I see next. This is where you will be doing all the work for this problem set. At the end of the problem set, in step 9, you'll see how to commit your work to your repository on the internet on GitHub.
+
+<img src="repoinfinder.png" width="500">
 
 ## Part 6: Download and install Python
 
-1. Download Python for your operating system by clicking the big yellow "Download Python" button found on this webpage: https://www.python.org/downloads/. It's okay if the version number is different. Python gets updated frequently!
+1. Download Python for your operating system by clicking the big yellow "Download Python" button found on this webpage: https://www.python.org/downloads. It's okay if the version number is different. Python gets updated frequently!
 
 <img src="download.png" width="300">
 
@@ -58,11 +62,14 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 ### *Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python 3.12 to PATH"!*
 
+### *Important note for Mac users: Allow it to access files in Downloads!*
+
+
 3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "python" or "idle" the way you would search for any other file or program (e.g., with the Start menu in Python, or with Spotlight, the magnifying glass in the upper right corner on Mac). Here's a screenshot from my Mac showing where the installer installed Python. 
 
-<img src="img/maclocation.png" width="500">
+<img src="maclocation.png" width="500">
 
-4. Make a shortcut or alias to the IDLE application to your desktop so you always know where to find it.
+4. Strongly recommended: make a shortcut or alias to the IDLE application to your desktop so you always know where to find it.
 
 
 ## Part 7: Write and run Python code from the IDLE interpreter
@@ -94,9 +101,9 @@ This might be the trickiest part for many people. You are now going to use GitHu
 * Put your PDF slide in this directory (Part 1)
 * Complete the course survey (Part 2).
 * Post a message on Slack (Part 3).
-* Put the screenshot showing that you installed and can use Anaconda in this directory (Part 5).
-* Edit the `ps1.ipynb` file in this directory (Part 6).
-* Commit this entire directory to GitHub Classroom (Part 7).
+* Put the screenshot showingn that you used the interpreter in IDLE (Part 7)
+* Edit the `ps1.py` file in this directory (Part 8).
+* Commit this entire directory to GitHub Classroom (Part 9).
 
 **All components of this problem set are due by Friday, January 19, by 11:59pm Boston time.**
 
