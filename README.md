@@ -79,9 +79,7 @@ Then in the `Local Path` box, change the path to something sensible -- like your
 
 ## Part 7: Write and run a Python program with IDLE
 
-In this folder, you'll see a file called `ps1.py`.  (Your operating system might just show it as as `ps1`. That's fine -- it's the file you want.) 
-
-In order to view and run this program in IDLE, you need to open it in IDLE. There are two ways of opening a Python (``.py``) file in IDLE.
+In this folder, you'll see a file called `ps1.py`.  (Your operating system might just show it as as `ps1`. That's fine -- it's the file you want.) In order to view and run this program in IDLE, you need to open it in IDLE. There are two ways of opening a Python (``.py``) file in IDLE.
 
 **Option 1**
 
