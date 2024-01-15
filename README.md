@@ -103,7 +103,7 @@ Hello, World!
 
 You have successfully run your first Python program! You can now edit the program in the window where you opened it in IDLE.
 
-1. Change the code in `ps1.py` to print out on three seperate lines: (1) "Hello, Boston College!", (2) the sum of 7 and 15, (3) any farewell message.
+1. Change the code in `ps1.py` to print out on three seperate lines: (1) "Hello, Boston College!", (2) the sum of 7 and 15, (3) any farewell message. Remember that you need to use the `print()` function for each thing you want to print out!
 2. Save the program by selecting `Save` from the `File` menu or by using whatever shortcut you'd use to save a file in Word or any other app on your computer (e.g., `command-s` in Mac).
 3. Run the program by selecting the `ps1.py` window and then going to `Run -> Run module`.
    
