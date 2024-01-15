@@ -1,4 +1,4 @@
-# Problem Set 1
+ # Problem Set 1
 
 Now that you have created a GitHub account and have accepted this invitation, you can finish the problem set. Here are the components that must be submitted by the deadline, January 19, at 11:59pm:
 
@@ -23,26 +23,45 @@ Take this short survey: https://forms.gle/c6LJ2QyRxktytCPa8
 ## Part 3: Get started on Slack
 Follow [this link to join the Slack workspace for this class](https://join.slack.com/t/csci1090s24/shared_invite/zt-2anzsi28g-kcsiPnm04dhh4q7sAsuGhw). Create your account if you don't have one and feel free to use a pseudonym for your username. Then post a message in the `#general` channel. Don't forget to `@prudhome` if you need my attention.
 
-## Part 4: Install Anaconda
-There are many different ways to write and run Python code. We will be exploring several of them in this class, but we will start by using Anaconda.
-Anaconda is a platform for writing and running Python programs that includes a lot of optional libraries (extra functionality) that are not normally included with the basic version of Python. Using Anaconda will allow us to skip over the frustration of installing libraries and making sure everything is installed in the right place. As you become a stronger programmer, you will learn to manage your Python installation yourself, but for now, we'll use Anaconda.
+## Part 4: Download and Install GitHub Desktop
+In this class, most assignments will be distributed and submitted using GitHub Classroom. The easiest way to manage GitHub for new users is through the GitHub Desktop application.
 
-[You can install Anaconda from here.](https://www.anaconda.com/download)
+1. [Download GitHub Desktop from here.](https://desktop.github.com)
+2. Find the installer in your Downloads folder (or wherever things get downloaded on your computer), then double click the installer to install GitHub Desktop. In most cases, this will install the program in your Downloads folder.
+3. Launch GitHub Desktop. When you do this, it might ask you if you want to move it to a more appropriate location (e.g., Applications). You should say yet, but remember where it is getting moved to so you can find it easily later.
 
-If you have questions during the installation, here are some specific instructions for installing Anaconda for your particular operating system:
+Since you have already created a GitHub account in the first part of this problem set, 
 
-* [Windows](https://docs.anaconda.com/free/anaconda/install/windows/#installing-on-windows) *Note: Be sure to follow their recommendations for including Anaconda in your path.*
-* [Mac](https://docs.anaconda.com/free/anaconda/install/mac-os/#wizard-install) *Note: If it asks you to choose between Intel or M1/M2/M3, you probably have an M-chip, but you can check for sure by going to the Apple icon in the upper left of your screen and selecting "About this Mac"*.
+## Part 5: Clone this repository to your own machine
 
-Please take the suggestions and recommendations found in the installation guide. In general, the best choice at any screen during installation is to select "Continue".
 
-## Part 5: Type some Python code in Anaconda.
+## Part 6: Download and install Python
 
-One thing students really have trouble with is finding stuff on their computers! In both Windows (from the Start menu) and Mac (using the magnifying glass in the upper right corner) you can search for files easily. If you can't find Anaconda, use your OS's search function, then launch it. 
+1. Download Python for your operating system by clicking the big yellow "Download Python" button found on this webpage: https://www.python.org/downloads/. It's okay if the version number is different. Python gets updated frequently!
 
-In the future, you can make Anaconda easy to find by putting a shortcut ([Windows](https://support.microsoft.com/en-us/windows/pin-apps-and-folders-to-the-desktop-or-taskbar-f3c749fb-e298-4cf1-adda-7fd635df6bb0#WindowsVersion=Windows_11) or alias ([Mac](https://support.apple.com/guide/mac-help/create-and-remove-aliases-on-mac-mchlp1046/mac)) to it on your Desktop.
+<img src="img/download.png" width="300">
+
+2. Double click on the downloaded file to install Python on your computer. Answer the questions that the installer asks you and keep clicking the "Continue" button. You might have to enter your computer's password to complete the installation.
+
+*Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python 3.12 to PATH"!*
+
+3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "python" or "idle" the way you would search for any other file or program. Here's a screenshot from my Mac showing where the installer installed Python. 
+
+<img src="img/maclocation.png" width="500">
+
+4. Make a shortcut to the IDLE application to your desktop so you always know where to find it.
+
+
+## Part 5: Type some Python code!
 
 1. Launch the **IDLE** application (*not* python.exe or Python launcher.app).
+## Part 6: Download and Install Python
+
+
+
+## Part 7: Write and run Python code
+
+1. Launch the Anaconda Navigator app. **If it asks you sign up or sign in, ignore it!**
 
 2. This will open a window that looks something like this.
 
@@ -56,10 +75,10 @@ In the future, you can make Anaconda easy to find by putting a shortcut ([Window
 
 5. Take a screenshot of your IDLE window showing that you typed these commands, and submit it to the Canvas assignment for Problem Set 1.
 
-## Part 6: Edit a Jupyter Notebook
+## Part 8: Edit a Jupyter Notebook
 
 
-## Part 7: Commit your work to GitHub Classroom
+## Part 9: Commit your work to GitHub Classroom using the GitHub Desktop app
 ---
 
 **Reminder:** To receive full credit you must
