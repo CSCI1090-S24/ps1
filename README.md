@@ -126,8 +126,8 @@ You have successfully run your first Python program!You can now edit the program
 
 * Complete the course survey (Part 1).
 * Post a message on Slack (Part 2).
-* Put the screenshot showingn that you used the interpreter in IDLE (Part 6).
-* Edit the `ps1.py` file in this directory (Part 7).
+* Put the screenshot showing that you used the interpreter in IDLE (Part 6).
+* Edit the `ps1.py` file in this directory (as described in Part 7).
 * Put your personal PDF slide in this directory (Part 8).
 * Commit this entire directory to GitHub Classroom (Part 9).
 
