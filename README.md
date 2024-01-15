@@ -25,7 +25,7 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 <img src="img/getstarted.png" width="500">
 
-3. When you select that, you'll see a list of your repositories, including this one, as shown below. Select this repository, i.e., `CSCI1090-S24/ps1-yourusername`.
+3. When you select that, you'll see a list of your repositories, including this one, as shown below. Select this repository, i.e., `CSCI1090-S24/ps1-yourusername`, where `yourusername` is your GitHub username.
 
 Then in the `Local Path` box, change the path to something sensible -- like your Desktop or Documents and then a folder named for the class, as shown in the screenshot below. **Be sure to remember what this location is so you can easily find your files later on!**
 
@@ -35,7 +35,7 @@ Then in the `Local Path` box, change the path to something sensible -- like your
  
 <img src="img/repoview.png" width="500">
 
-6. On my Mac, this is what I see next. This is where you will be doing all the work for this problem set. At the end of the problem set, in step 9, you'll see how to commit your work to your repository on the internet on GitHub.
+6. On my Mac, when I click on `Show in Finder` this is what I see next: a Finder folder with the same files as I can see on GitHub in my browser! This is your local copy of the problem set. This is where you will be doing all the work for this problem set. At the end of the problem set, in step 9, you'll see how to commit your work to your repository on the internet on GitHub.
 
 <img src="img/classroomlocation.png" width="500">
 
@@ -49,19 +49,19 @@ Then in the `Local Path` box, change the path to something sensible -- like your
 
 ### *Important note for Windows users: You **must** check the box in the first dialogue window that says "Add Python 3.12 to PATH"!*
 
-### *Important note for Mac users: Allow it to access files in Downloads!*
+### *Important note for Mac users: Allow the installer to access files in Downloads!*
 
 
-3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "IDLE" the way you would search for any other file or program (e.g., with the Start menu in Windows, or on a Mac with Spotlight, the magnifying glass in the upper right corner). Here's a screenshot from my Mac showing where the installer installed Python. 
+3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in `Applications` by default. In Windows, the default location is usually in `Programs`. If you are having trouble finding the Python components you just installed, you can always search for "IDLE" the way you would search for any other file or program (e.g., with the Start menu in Windows, or on a Mac with Spotlight, the magnifying glass in the upper right corner). Here's a screenshot from my Mac showing where the installer installed Python. 
 
 <img src="img/maclocation.png" width="500">
 
-4. Strongly recommended: make a shortcut or alias to the IDLE application to your desktop so you always know where to find it. 
+**Pro tip: make a shortcut or alias to the IDLE application to your desktop so you always know where to find it.**
 
 
 ## Part 6: Write and run Python code from the IDLE interpreter
 
-1. Launch the **IDLE** application (*not* python.exe or Python launcher.app). On a Mac it might be called ``IDLE.app``, and on a Windows machine it might be called ``IDLE.exe`` or ``IDLE.bat``. See Part 5, stem 3 to recall how to find it.
+1. Launch the **IDLE** application (*not* `python.exe` or `Python launcher.app` or anything else with the word "python" in it). On a Mac it might be called ``IDLE.app``, and on a Windows machine it might be called ``IDLE.exe`` or ``IDLE.bat``. See Part 5, step 3 to recall how to find it.
 
 2. This will open a window that looks something like this.
 
@@ -73,7 +73,7 @@ Then in the `Local Path` box, change the path to something sensible -- like your
 
 ```print("Hello, world!")```
 
-5. Take a screenshot of your IDLE window showing that you typed these commands, and move the screen shot into the folder on your computer for this repository (i.e., the one GitHub Desktop created called `ps1-yourusername`).
+5. Take a screenshot of your IDLE window showing that you typed these commands, and move the screenshot into the folder on your computer for this repository (i.e., the one GitHub Desktop created called `ps1-yourusername`).
 
 ## Part 7: Write and run a Python program with IDLE
 
@@ -84,12 +84,12 @@ In order to view and run this program in IDLE, you need to open it in IDLE. Ther
 **Option 1**
 
 * Right-click on the `ps1.py` file. (On a Mac, you can right-click by tapping the icon with two fingers or by holding down the ``control`` key and then tapping the icon.)
-* Select `Open with...` and then select IDLE from the submenu.
+* Select `Open with...` and then select IDLE from the submenu. On Windows, if you don't see `Open with...` select the `More options` item, which should bring up the `Open with...` option.
 * If IDLE does not appear or you can't figure out how to right click, try option 2.
 
 **Option 2**
 
-* Launch IDLE. It might already be open from Part 6! 
+* Launch IDLE. It might already be open from when you did Part 6.
 * From the `File` menu in IDLE, select `Open`. Then navigate to the `ps1-yourusername` folder, and select `ps1.py`, which your OS might show just as `ps1`, without the `.py`.
 
 
@@ -101,27 +101,53 @@ Hello, World!
 >>> 
 ```
 
-You have successfully run your first Python program!You can now edit the program in the window where you opened it in IDLE.
+You have successfully run your first Python program! You can now edit the program in the window where you opened it in IDLE.
 
-1. Change the code in `ps1.py` to print out (1) "Hello, Boston College!", (2) the sum of 7 and 15, (3) any farewell message.
-2. Save the program by selecting `Save` from the `File` menu or by using whatever shortcut you'd use to save a file in Word or Excel or any other app.
+1. Change the code in `ps1.py` to print out on three seperate lines: (1) "Hello, Boston College!", (2) the sum of 7 and 15, (3) any farewell message.
+2. Save the program by selecting `Save` from the `File` menu or by using whatever shortcut you'd use to save a file in Word or any other app on your computer (e.g., `command-s` in Mac).
 3. Run the program by selecting the `ps1.py` window and then going to `Run -> Run module`.
    
 
 ## Part 8: Make a Personal Slide
 
-1. Using PowerPoint, Keynote, or Google Slides, create a single landscape mode PDF that contains the following information.
+1. Using PowerPoint, Keynote, or Google Slides, create a single landscape mode PDF called `firstname_lastname.pdf` that contains the following information.
 
 * Your name as it appears in Canvas.
 * The name you prefer to be called.
 * A photo of you that resembles what you currently look like.
 
-2. Put the PDF in your folder that is the local clone of the repository.
-
-
+2. Put the PDF in your folder that is the local clone of the repository (i.e., `ps1-yourusername`).
 
 
 ## Part 9: Commit your work to GitHub Classroom using the GitHub Desktop app
+If you look at your `ps1-yourusername` folder now, it should look like this, since you have added your slide, your screenshot, and your updates to  `ps1.py`.
+
+<img src="img/updated.png" width="500">
+
+Now you are ready to commit your changes from your local copy of the repo to the main copy of the repo on GitHub!
+
+1. Launch GitHub Desktop.
+2. It should look something like this, showing the files that have been added or changed on the left. If you don't see something like this, you should be able to find your current ps1 repo from the drop down menu in the upper left corner.
+
+<img src="img/githubdesktop.png" width="500">
+
+3. Type a message saying what changes you're making in the box that says `Summary (required)`. I typed "adding a slide and screenshot, updating ps1.py".
+
+4. Click `Commit to main`.
+5. Then you'll see this screen. Click the blue button that says `Push origin`.
+
+<img src="img/pushorigin.png" width="500">
+
+6. Now you can double check that your changes to the repo on GitHub went through by clicking on `View on GitHub`:
+
+<img src="img/viewongithub.png" width="500">
+
+7. Your repo on GitHub should now look something like this (substituting in your username, of course, and different dates and times). You can see that the files I added are there, and the `ps1.py` file was updated very recently.
+
+<img src="img/githubview.png" width="500">
+
+If you have followed all of the steps so far, you should be done with the problem set. Congratulations!
+
 ---
 
 **Reminder:** To receive full credit you must
