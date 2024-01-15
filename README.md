@@ -23,25 +23,25 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 2. You should see a screen like this. Click on the second choice "Clone a Repository from the Internet..."
 
-<img src="getstarted.png" width="500">
+<img src="img/getstarted.png" width="500">
 
 3. When you select that, you'll see a list of your repositories, including this one, as shown below. Select this repository, i.e., `CSCI1090-S24/ps1-yourusername`. Then in the `Local Path` box, change the path to something sensible -- like your Desktop or Documents and then a folder named for the class, as shown in the screenshot below.
 
-<img src="selectrepo.png" width="500">
+<img src="img/selectrepo.png" width="500">
 
 4. Next you'll see a screen like this. If you want to see your local copy of your repo on your computer, you can click on the `Show in Finder` option (which will be something like `Show in File Explorer` in Windows).
  
-<img src="repoview.png" width="500">
+<img src="img/repoview.png" width="500">
 
 6. On my Mac, this is what I see next. This is where you will be doing all the work for this problem set. At the end of the problem set, in step 9, you'll see how to commit your work to your repository on the internet on GitHub.
 
-<img src="repoinfinder.png" width="500">
+<img src="img/repoinfinder.png" width="500">
 
 ## Part 5: Download and install Python
 
 1. Download Python for your operating system by clicking the big yellow "Download Python" button found on this webpage: https://www.python.org/downloads. It's okay if the version number is different. Python gets updated frequently!
 
-<img src="download.png" width="300">
+<img src="img/download.png" width="300">
 
 2. It will probably get downloaded to your Downloads folder. Double click on the downloaded file to install Python on your computer. Answer the questions that the installer asks you and keep clicking the "Continue" button. You might have to enter your computer's password to complete the installation.
 
@@ -52,7 +52,7 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 3. After installation is complete, your computer will probably open a window showing you where the various Python components were installed. On a Mac, it's in Applications by default. In Windows, the default location is in Programs. If you are having trouble finding the Python components you just installed, you can always search for "IDLE" the way you would search for any other file or program (e.g., with the Start menu in Windows, or on a Mac with Spotlight, the magnifying glass in the upper right corner). Here's a screenshot from my Mac showing where the installer installed Python. 
 
-<img src="maclocation.png" width="500">
+<img src="img/maclocation.png" width="500">
 
 4. Strongly recommended: make a shortcut or alias to the IDLE application to your desktop so you always know where to find it. 
 
@@ -63,7 +63,7 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 2. This will open a window that looks something like this.
 
-<img src="idlepicture.png" width="500">
+<img src="img/idlepicture.png" width="500">
  
 3. Next to the ``>>>`` type a mathematical expression, like ``2+7`` or ``56/8``. Then hit return.
 
