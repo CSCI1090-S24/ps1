@@ -35,7 +35,7 @@ This might be the trickiest part for many people. You are now going to use GitHu
 
 6. On my Mac, this is what I see next. This is where you will be doing all the work for this problem set. At the end of the problem set, in step 9, you'll see how to commit your work to your repository on the internet on GitHub.
 
-<img src="img/repoinfinder.png" width="500">
+<img src="img/classroomlocation.png" width="500">
 
 ## Part 5: Download and install Python
 
