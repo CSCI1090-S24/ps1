@@ -1,1 +1,1 @@
-print("Hello, Boston College!")
+print("Hello, World!")
